@@ -1,0 +1,13 @@
+mat-card {
+  width: 250px;
+  height: max-content;
+
+  mat-form-field {
+    width: 100%;
+  }
+
+  mat-card-actions {
+    display: flex;
+    justify-content: center;
+  }
+}
